@@ -6,7 +6,7 @@
 ### 📍 About Me
 
 - 🌆 I'm based in **Ulaanbaatar**
-- 🧠 I'm currently learning **Java, TypeScript, React, JavaScript, SQL**
+- 🧠 I'm currently learning **Java, Phyton, SQL**
 - 💌 You can reach me at **[azxxzak06@gmail.com](mailto:azxxzak06@gmail.com)**
 
 ---
