@@ -1,12 +1,12 @@
 <h1 align="center">Hi there 👋, I'm Azjargal</h1>
-<h3 align="center">Frontend Developer & Java Enthusiast from Mongolia 🇲🇳</h3>
+<h3 align="center">Frontend Developer & Java Learner from Mongolia 🇲🇳</h3>
 
 ---
 
 ### 📍 About Me
 
 - 🌆 I'm based in **Ulaanbaatar**
-- 🧠 I'm currently learning **Java, TypeScript, React, Firebase**
+- 🧠 I'm currently learning **Java, TypeScript, React, JavaScript, SQL**
 - 💌 You can reach me at **[azxxzak06@gmail.com](mailto:azxxzak06@gmail.com)**
 
 ---
@@ -28,7 +28,7 @@
 
 ### 🎯 Goals for 2025
 
-- ✅ Build full-stack apps with React + Firebase
+- ✅ Build full-stack apps with React 
 - ✅ Deepen Java backend knowledge
 - ✅ Contribute to open source projects
 - ✅ Pass the FE (ITPEC) exam 🎓
