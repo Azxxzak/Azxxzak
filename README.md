@@ -33,10 +33,4 @@
 - ✅ Contribute to open source projects
 - ✅ Pass the FE (ITPEC) exam 🎓
 
----
 
-### 🌌 Vibe
-
-<p align="center">
-  <img src="https://i.imgur.com/DjfIgK2.jpeg" alt="anime-street" width="90%" />
-</p>
