@@ -30,7 +30,6 @@
 
 ### 🎯 Goals for 2025
 
-- ✅ Build full-stack apps with React 
 - ✅ Deepen Java backend knowledge
 - ✅ Contribute to open source projects
 - ✅ Pass the FE (ITPEC) exam 🎓
