@@ -6,7 +6,7 @@
 ### 📍 About Me
 
 - 🌆 I'm based in **Ulaanbaatar**
-- 🧠 I'm currently learning **Java, Phyton, SQL**
+- 🧠 I'm currently learning **Java, Python, SQL**
 - 💌 You can reach me at **[azxxzak06@gmail.com](mailto:azxxzak06@gmail.com)**
 
 ---
@@ -20,6 +20,8 @@
   <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-%2300C7B7?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/VSCode-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
@@ -32,5 +34,3 @@
 - ✅ Deepen Java backend knowledge
 - ✅ Contribute to open source projects
 - ✅ Pass the FE (ITPEC) exam 🎓
-
-
