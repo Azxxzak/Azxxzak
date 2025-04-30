@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Azjargal</h1>
-<h3 align="center">Frontend Developer & Java Learner from Mongolia 🇲🇳</h3>
+<h3 align="center">Fullstack Developer & Java Learner from Mongolia 🇲🇳</h3>
 
 ---
 
